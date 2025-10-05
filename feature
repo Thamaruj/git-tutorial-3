@@ -1,1 +1,1 @@
-new conflict demo-2
+new conflict demo
